@@ -1,3 +1,4 @@
 # Android-Studio-Tourism-App
-This is for Android Studio Tourism App Content
-and you can also comment on the below if you are not understand what to do 
+Android Database Connectivity use the above jar file after import the jar file
+used this dependency :
+  implementation project(":mysql-connector-java-5.1.23-bin")
